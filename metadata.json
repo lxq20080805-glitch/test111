@@ -1,0 +1,5 @@
+{
+  "name": "Smart Parking",
+  "description": "A DRL-based shared parking management prototype",
+  "requestFramePermissions": []
+}
